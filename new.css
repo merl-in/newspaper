@@ -1,0 +1,39 @@
+.banner {
+    min-height: 100px;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.custom {
+
+    min-height: 400px;
+    padding: 10px;
+}
+
+.weather {
+    max-width: 20%;
+}
+
+.scene {
+    width: 70%;
+}
+
+.breakerT {
+    border-top: solid 2px grey;
+}
+
+.breakerB {
+    border-bottom: solid 2px grey;
+}
+
+.headFont {
+    font-family: 'Rye', cursive;
+}
+
+
+h1 {
+-webkit-text-stroke: 0.2px rgba(22, 76, 223, 0.808);
+font-size: 45px;
+}
